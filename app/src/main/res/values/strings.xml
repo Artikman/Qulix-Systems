@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="menu_explore">All News</string>
+    <string name="action_search">Search</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">World News! </string>
+    <string name="menu_wish_list">Favourite</string>
+    <string name="open_website">Open website</string>
+    <string name="news_intro">Get breaking news headlines, and search for articles from over 30,000</string>
+    <string name="action_delete">Delete All</string>
+    <string name="deleteAll">Are You Want To Delete All Favourite </string>
+    <string name="deleteArticle">Successfully Deleted Article</string>
+    <string name="undo">Undo</string>
+    <string name="yes">Yes , Delete </string>
+    <string name="no"> NO </string>
+
+</resources>
